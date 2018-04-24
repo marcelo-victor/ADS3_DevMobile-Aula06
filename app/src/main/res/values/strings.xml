@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Paises</string>
+    <string name="botao_busca">Listar</string>
+
+
+
+    <string name="nomeText">Nome: </string>
+    <string name="codigo3Text">Codigo3: </string>
+    <string name="capitalText">Capital: </string>
+    <string name="regiaoText">Região: </string>
+    <string name="subRegiaoText">Sub-Região: </string>
+    <string name="demonimoText">Demonimo: </string>
+    <string name="populacaoText">População: </string>
+    <string name="areaText">Area: </string>
+    <string name="bandeiraText">Bandeira: </string>
+    <string name="giniText">Gini: </string>
+    <string name="idiomasText">Idioma: </string>
+    <string name="moedasText">Moeda: </string>
+    <string name="dominiosText">Dominios: </string>
+    <string name="fusosText">Fuso-Horario: </string>
+    <string name="fronteirasText">Fronteira: </string>
+    <string name="latitudeText">Latitude: </string>
+    <string name="longitudeText">Longitude: </string>
+    <string name="escolha_regiao">Escolha uma região:</string>
+
+</resources>
